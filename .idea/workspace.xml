@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="980c23ce-835f-48df-9919-e112d80eb417" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/ec1/ec1/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ec1/ec1/Problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ec1/ec1/Problem3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ec1/ec1/hints.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw1/GuitarHeroLite.java.skeleton" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw1/GuitarPlayer.java.skeleton" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw1/TTFAF.java.skeleton" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw1/synthesizer/ArrayRingBuffer.java.skeleton" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw1/synthesizer/GuitarString.java.skeleton" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw1/synthesizer/TestArrayRingBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw1/synthesizer/TestGuitarString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/hw2/InteractivePercolationVisualizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/hw2/Percolation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/hw2/PercolationFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/hw2/PercolationStats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/hw2/PercolationVisualizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/greeting57.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/heart25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/input1-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/input10-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/input10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/input2-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/input20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/input3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/input4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/input5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/input50.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/input6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/input7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/input8-dups.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/input8-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/input8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/jerry47.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/michael61.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/sedgewick60.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/snake1001.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/snake101.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/snake13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/snake501.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/wayne98.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/inputFiles/wayne98b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/greeting57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/heart25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/input1-no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/input1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/input10-no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/input10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/input2-no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/input2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/input20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/input3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/input4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/input5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/input50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/input6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/input7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/input8-dups.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/input8-no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/input8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/jerry47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/sedgewick60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/snake101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/snake13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/outputFiles/wayne98.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/hw3/hash/ComplexOomage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/hw3/hash/HashTableDrawingUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/hw3/hash/HashTableVisualizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/hw3/hash/Hint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/hw3/hash/Oomage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/hw3/hash/OomageTestUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/hw3/hash/SimpleOomage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/hw3/hash/TestComplexOomage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/hw3/hash/TestJankyOomage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/hw3/hash/TestNiceSpreadOomage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/hw3/hash/TestSimpleOomage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/hw4/puzzle/AlphabetEasyPuzzle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/hw4/puzzle/AlphabetEasyPuzzleSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/hw4/puzzle/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/hw4/puzzle/CommonBugDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/hw4/puzzle/EightPuzzleSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/hw4/puzzle/TestBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/hw4/puzzle/TestSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/hw4/puzzle/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/hw4/puzzle/WordPuzzleSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/hw4/puzzle/WorldState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle00.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle05.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle07.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle08.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle2x2-00.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle2x2-01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle2x2-02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle2x2-03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle2x2-04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle2x2-05.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle2x2-06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle32.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle33.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle34.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle35.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle36.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle37.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle39.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-00.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-05.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-07.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-08.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle3x3-31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle41.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle42.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle43.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle44.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle45.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle46.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle47.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle48.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle49.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-00.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-05.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-07.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-08.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-32.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-33.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-34.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-35.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-36.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-37.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-39.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-41.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-42.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-43.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-44.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-45.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-46.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-47.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-48.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-49.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle4x4-50.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/puzzle50.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/word_puzzles.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/input/words10000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/PrintEnergy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/PrintSeams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/SCUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/SanityCheckTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/SeamCarverVisualizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/SeamRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/ShowEnergy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/ShowSeams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/10x10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/10x10.printseams.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/10x12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/10x12.printseams.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/12x10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/12x10.printseams.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/1x1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/1x1.printseams.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/1x8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/1x8.printseams.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/3x4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/3x4.printseams.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/3x7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/3x7.printseams.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/4x6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/4x6.printseams.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/5x6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/5x6.printseams.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/6x5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/6x5.printseams.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/7x10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/7x10.printseams.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/7x3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/7x3.printseams.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/8x1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/8x1.printseams.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/HJoceanSmall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/HJoceanSmall357x285.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/chameleon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/diagonals.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/diagonals.printseams.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/stripes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/images/stripes.printseams.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/Boggle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/exampleBoard.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/exampleBoard2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/smallBoard.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/smallBoard2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/trivial_words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/BitSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/Match.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/ObjectReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/ObjectWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/ObjectWritingAndReadingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/TestBinaryTrie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/notEnglish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/signalalarm.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/tas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/watermelonsugar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/magic_word.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/ArrayHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/ExtrinsicPQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/lab11/graphs/AStarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/lab11/graphs/BreadthFirstDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/lab11/graphs/CyclesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/lab11/graphs/DepthFirstDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/lab11/graphs/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/lab11/graphs/MazeAStarPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/lab11/graphs/MazeBreadthFirstPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/lab11/graphs/MazeCycles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/lab11/graphs/MazeDepthFirstPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/lab11/graphs/MazeExplorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/lab11/graphs/TrivialMazeExplorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/lab11/graphs/TrivialMazeExplorerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/lab11/graphs/maze.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab13/CountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab13/CountingSortTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab13/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14/lab14/DownloadSound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14/lab14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14/lab14/PlayMajorChord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14/lab14/SineWaveAnimation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14/lab14/SineWaveGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14/lab14lib/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14/lab14lib/GeneratorAudioAnimator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14/lab14lib/GeneratorAudioVisualizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14/lab14lib/GeneratorDrawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14/lab14lib/GeneratorPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14/lab14lib/MultiGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/creatures/Plip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/creatures/TestPlip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/huglife/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/huglife/Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/huglife/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/huglife/Empty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/huglife/Grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/huglife/HugLife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/huglife/HugLifeAnimator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/huglife/HugLifeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/huglife/Impassible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/huglife/In.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/huglife/Occupant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/huglife/Out.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/huglife/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/huglife/SampleCreature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/huglife/StdDraw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/huglife/TestHugLife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/huglife/sampleplip.world" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/huglife/samplesolo.world" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/huglife/strugggz.world" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/DebugPractice/DebugExercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/DebugPractice/DebugExercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/DebugPractice/DebugExercise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/DebugPractice/foods.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/Intlist/IntList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/Intlist/IntListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2setup/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2setup/DogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/Arithmetic/Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/Arithmetic/ArithmeticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/Flik/Flik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/Flik/HorribleSteve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/IntList/IntListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/magic_word.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/self_reflection.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/lab9/ArrayMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/lab9/BSTMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/lab9/Map61B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/lab9/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/lab9/ULLMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/lab9tester/TestArrayMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/lab9tester/TestBSTMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/lab9tester/TestMyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj1a/LinkedLIstDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj1a/LinkedListDequeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj1b/CharacterComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj1b/PalindromeFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj1b/TestOffByOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj1b/TestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj1gold/ArrayDequeSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj1gold/AssertEqualsStringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj1gold/StudentArrayDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj1gold/StudentArrayDequeLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj2/byog/Core/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj2/byog/Core/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj2/byog/Core/RandomUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj2/byog/SaveDemo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj2/byog/SaveDemo/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj2/byog/SaveDemo/World.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj2/byog/TileEngine/TERenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj2/byog/TileEngine/TETile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj2/byog/TileEngine/Tileset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj2/byog/lab5/BoringWorldDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj2/byog/lab5/HexWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj2/byog/lab5/RandomWorldDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj2/byog/lab5/project2prep.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj2/byog/lab6/MemoryGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj2/byog/lab6/MemoryGameSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/berkeley-cs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/directions_results.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/path_params.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/path_results.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/raster_params.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/raster_results.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/src/main/java/GraphBuildingHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/src/main/java/GraphDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/src/main/java/GraphDBLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/src/main/java/MapServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/src/main/java/Rasterer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/src/main/java/Router.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/src/main/java/example/CSCourseDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/src/main/java/example/CSCourseDBHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/src/static/page/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/src/static/page/marker.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/src/static/page/round_marker.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/src/static/page/scripts/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/src/static/page/styles/map.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/src/test/java/TestDirections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/src/test/java/TestGraphBuilding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/src/test/java/TestGraphBuildingTiny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/src/test/java/TestRasterer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/src/test/java/TestRouter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/src/test/java/TestRouterTiny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/test1234.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj3/testTwelveImages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj0/NBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/proj0/NBody.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="LinkedListDequeTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proj1a/LinkedListDequeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-818">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedLIstDeque.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/proj1a/LinkedLIstDeque.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="606" />
+    <option name="y" value="23" />
+    <option name="width" value="828" />
+    <option name="height" value="824" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cs61b" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs61b" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs61b" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs61b" type="462c0819:PsiDirectoryNode" />
+              <item name="proj1a" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="980c23ce-835f-48df-9919-e112d80eb417" name="Default" comment="" />
+      <created>1536344988589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536344988589</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" weight="0.3287483" />
+      <window_info anchor="bottom" id="Style Checker" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2453505" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Style Checker" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.33299285" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="3" visible="true" weight="0.3287483" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/proj1a/LinkedListDequeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-818">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj1a/LinkedLIstDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -55,6 +55,8 @@ public class NBody {
 
 	}
 
+	// stuck here wite depracation in StdDraw.java  Toolkit.getDefaultToolkit().getMenuShortcutKeyMask()));
+
 
 }
 
